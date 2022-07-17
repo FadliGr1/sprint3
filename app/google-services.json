@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774907148205",
+    "project_id": "tubes-887a6",
+    "storage_bucket": "tubes-887a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774907148205:android:1c88b5e5882614fa649324",
+        "android_client_info": {
+          "package_name": "com.scappy.twlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774907148205-h5so7tqs4dnfqrr4d4mekshlto3ieib2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCrLfxOZFk-tSt2jh9uM1DIxFcTDn-FDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774907148205-h5so7tqs4dnfqrr4d4mekshlto3ieib2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
